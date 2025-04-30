@@ -4,7 +4,7 @@ import { Platform } from 'react-native';
 // Define an interface for the expected API response (adjust as needed)
 interface TranscriptionApiResponse {
     success: boolean;
-    transcription?: string; // Example field
+    transcript?: string; 
     message?: string;
     // Add other fields your API might return
 }

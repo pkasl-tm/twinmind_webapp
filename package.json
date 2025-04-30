@@ -15,7 +15,6 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@expensify/react-native-live-markdown": "^0.1.267",
     "@expo/vector-icons": "^14.1.0",
     "@mdxeditor/editor": "^3.30.0",
     "@react-navigation/bottom-tabs": "^7.2.0",
@@ -28,6 +27,7 @@
     "expo-av": "~15.0.2",
     "expo-blur": "~14.0.3",
     "expo-constants": "~17.0.8",
+    "expo-dev-client": "~5.0.20",
     "expo-font": "~13.0.4",
     "expo-haptics": "~14.0.1",
     "expo-linking": "~7.0.5",
